@@ -124,7 +124,7 @@ img {
 }
 
 .sidenav li a:hover{
-  background: #B07DFB
+  background: #B07DFB;
 }
 
 @keyframes seta {
@@ -138,6 +138,7 @@ img {
 
 @media (max-width: 760px) {
   .sidenav {
+    position: relative;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;    
   }
