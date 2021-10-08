@@ -142,7 +142,7 @@ img {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;    
   }
-/* SETA ESTA NO LUGAR ERRADO */
+
   .sidenav::after {
     content: '→';
     position: absolute;
